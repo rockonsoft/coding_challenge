@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "first_name": "Sam",
+      "last_name": "Forsight",
+      "email": "sam.forsight@email.com",
+      "age": "27",
+      "favorite_snacks": ["Kit Kat", "Mars Bar"]
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Soap",
+      "email": "joe.soap@email.com",
+      "age": "52",
+      "favorite_snacks": ["Reese’s Peanut Butter Cups", "Pringles", "Mars Bar"]
+    },
+    {
+      "first_name": "Marvin",
+      "last_name": "Johnston",
+      "email": "marvin.johnston@email.com",
+      "age": "34",
+      "favorite_snacks": ["Goldfish", "Cheetos", "M&Ms", "Kit Kat"]
+    },
+    {
+      "first_name": "Jody",
+      "last_name": "Nell",
+      "email": "jody.nell@emai.com",
+      "age": "36",
+      "favorite_snacks": ["Fritos", "Gummy Bears", "Twix"]
+    }
+  ]
+}
